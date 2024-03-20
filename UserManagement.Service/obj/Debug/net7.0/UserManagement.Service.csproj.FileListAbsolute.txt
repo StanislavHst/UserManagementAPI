@@ -1,0 +1,17 @@
+D:\forRider\User Management API\UserManagement.Service\bin\Debug\net7.0\UserManagement.Service.deps.json
+D:\forRider\User Management API\UserManagement.Service\bin\Debug\net7.0\UserManagement.Service.dll
+D:\forRider\User Management API\UserManagement.Service\bin\Debug\net7.0\UserManagement.Service.pdb
+D:\forRider\User Management API\UserManagement.Service\bin\Debug\net7.0\UserManagement.Domain.dll
+D:\forRider\User Management API\UserManagement.Service\bin\Debug\net7.0\UserManagement.Infrastructure.dll
+D:\forRider\User Management API\UserManagement.Service\bin\Debug\net7.0\UserManagement.Domain.pdb
+D:\forRider\User Management API\UserManagement.Service\bin\Debug\net7.0\UserManagement.Infrastructure.pdb
+D:\forRider\User Management API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.csproj.AssemblyReference.cache
+D:\forRider\User Management API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\forRider\User Management API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.AssemblyInfoInputs.cache
+D:\forRider\User Management API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.AssemblyInfo.cs
+D:\forRider\User Management API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.csproj.CoreCompileInputs.cache
+D:\forRider\User Management API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.csproj.CopyComplete
+D:\forRider\User Management API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.dll
+D:\forRider\User Management API\UserManagement.Service\obj\Debug\net7.0\refint\UserManagement.Service.dll
+D:\forRider\User Management API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.pdb
+D:\forRider\User Management API\UserManagement.Service\obj\Debug\net7.0\ref\UserManagement.Service.dll

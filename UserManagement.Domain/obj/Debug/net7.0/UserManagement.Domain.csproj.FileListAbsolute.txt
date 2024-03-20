@@ -1,0 +1,11 @@
+D:\forRider\User Management API\UserManagement.Domain\bin\Debug\net7.0\UserManagement.Domain.deps.json
+D:\forRider\User Management API\UserManagement.Domain\bin\Debug\net7.0\UserManagement.Domain.dll
+D:\forRider\User Management API\UserManagement.Domain\bin\Debug\net7.0\UserManagement.Domain.pdb
+D:\forRider\User Management API\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\forRider\User Management API\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.AssemblyInfoInputs.cache
+D:\forRider\User Management API\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.AssemblyInfo.cs
+D:\forRider\User Management API\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.csproj.CoreCompileInputs.cache
+D:\forRider\User Management API\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.dll
+D:\forRider\User Management API\UserManagement.Domain\obj\Debug\net7.0\refint\UserManagement.Domain.dll
+D:\forRider\User Management API\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.pdb
+D:\forRider\User Management API\UserManagement.Domain\obj\Debug\net7.0\ref\UserManagement.Domain.dll
